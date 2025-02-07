@@ -1,9 +1,9 @@
-to get the local chat to work here are the steps
+to get the local chat to work, here are the steps:
 1. get a host machine
 2. get a minimal of 2 client machines (ive tested it with 9 clients and it worked fine)
 3. open both server and client files, and change the Host ip to the IP of your host computer. (leave the port be, if problems occur change in both files)
-4. run the host first
-5. then run the python file on the client machines
-6. enter session ID (can be found uppon running host.py)
+4. run server.py first
+5. then run client.py on your client machines.
+6. enter session ID (can be found uppon running server.py)
 7. enter the user that you want to be chatting as.
 8. done, you can now chat across your clients.
